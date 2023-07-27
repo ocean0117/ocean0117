@@ -1,4 +1,4 @@
-👋 Hi there! I'm Zhou, a studentfrom Hunan University. I'm passionate about  and always eager to learn new things.
+👋 Hi there! I'm Ocean, a studentfrom Hunan University. I'm passionate about  and always eager to learn new things.
 
 💻 I use GitHub to share my projects and contribute to the open source community. Some of my areas of expertise include ], and I'm currently working on .
 
